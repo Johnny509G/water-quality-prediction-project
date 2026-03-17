@@ -19,5 +19,5 @@ End-to-end data project for water potability prediction using Python, SQL Server
 - Streamlit prediction app with domain warnings
 
 ## Screenshots
-![Streamlit App](images/streamlit_app.png)
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Streamlit App](image/streamlit_app.png)
+![Power BI Dashboard](image/powerbi_dashboard.png)
